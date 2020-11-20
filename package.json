@@ -1,0 +1,27 @@
+{
+  "name": "js-time-lib-test",
+  "version": "1.0.0",
+  "description": "時間操作系のライブラリの実験",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ojisan-toybox/js-time-lib-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ojisan-toybox/js-time-lib-test/issues"
+  },
+  "homepage": "https://github.com/ojisan-toybox/js-time-lib-test#readme",
+  "dependencies": {
+    "date-fns": "^2.16.1",
+    "date-fns-tz": "^1.0.12",
+    "dayjs": "^1.9.6",
+    "luxon": "^1.25.0",
+    "moment": "^2.29.1",
+    "moment-timezone": "^0.5.32"
+  }
+}
